@@ -1,11 +1,11 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './button.css';
 
 const STYLES = ['btn--primary','btn--outline'];
 
 const SIZES = ['btn--medium','btn--large','btn--mobile','btn--wide'];
 
-const COLOR = ['primary','blue','black','green'];
+//const COLOR = ['primary','blue','black','green'];
 
 const button = ({
     children,
