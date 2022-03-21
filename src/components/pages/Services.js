@@ -1,10 +1,6 @@
-import React from 'react'
-import { FaFire } from 'react-icons/fa';
-import { Link } from 'react-router-dom';
-import Button from '../button';
-import {BsXDiamondFill} from 'react-icons/bs';
+import React from 'react';
 import { IconContext } from 'react-icons/lib';
-import './Services.css';
+import './Services.css'; 
 import img from '../../images/hair.jpg';
 import ped from '../../images/pedicure.jpeg';
 import scare from '../../images/skincare.jpeg';

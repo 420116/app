@@ -1,4 +1,4 @@
-import React,{Fragment} from 'react';
+import React from 'react';
 import Button from '../button';
 import { Link } from 'react-router-dom';
 import img from '../../images/svg-1.png';
