@@ -1,4 +1,4 @@
-
+This is a react based website and currently under development for release. Beta version has been release on netlify for initial user feedback
 
  [Visit Site](https://bhavya-beauty-makover.netlify.app/)
 
